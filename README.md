@@ -1,6 +1,6 @@
 # PortSwigger Web Security Labs
 
-Notes and practical exercises from [PortSwigger Web Security Academy](https://portswigger.net/web-security), following the [Server-side vulnerabilities — Apprentice learning path](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice).
+Notes and practical exercises from [PortSwigger Web Security](https://portswigger.net/web-security), following the [Server-side vulnerabilities](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice).
 
 ## Repository Structure
 
